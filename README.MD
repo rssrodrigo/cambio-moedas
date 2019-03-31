@@ -19,7 +19,7 @@ pip install json
 pip install pandas
 ```
 
-### Arquivos Gerados
+### Arquivo Gerado
 ![Aplicação](ValoresExcel.PNG)
 
 ### Desenvolvedor
@@ -28,4 +28,4 @@ pip install pandas
 
 License
 ----
-*Free Software!*
+**Free Software!** A documentação está atualmente armazenada [aqui](https://github.com/rssrodrigo/cambio-moedas)
