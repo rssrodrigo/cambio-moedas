@@ -7,6 +7,19 @@ Um script para pegar os valores, via requisição web, das cotações das princi
   - Bitcoin
 
 API utilizada: [FIXER.IO](https://fixer.io/)
+
+### Bibliotecas para funcionamento do script
+```sh
+pip install requests
+```
+```sh
+pip install json
+```
+```sh
+pip install pandas
+```
+
+### Arquivos Gerados
 ![Aplicação](ValoresExcel.PNG)
 
 ### Desenvolvedor
