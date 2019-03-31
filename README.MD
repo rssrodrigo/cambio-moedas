@@ -8,7 +8,6 @@ Um script para pegar os valores, via requisição web, das cotações das princi
 
 ### Desenvolvedor
 
- - Víctor Romário
  - Rodrigo Santana
 
 License
