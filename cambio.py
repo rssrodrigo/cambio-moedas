@@ -10,7 +10,6 @@ if response.status_code == 200:
     print ("Buscando informações das moedas ...")
     dados = response.json()
     day = dados ['date']
-    day= "2019-03-31"
     print("Acessando dados do dia: %s/%s/%s" % (day[8:], day[5:7], day[0:4])) #a ultima posição não é impressa, ex 5:7, imprime do 5 ao 6
 
     # print(dados['rates']['EUR'])
